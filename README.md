@@ -86,5 +86,3 @@ All levels can be expanded or replaced simply by editing the `.txt` files under 
 - **Professor Faella** — For modifying and adapting LiquidFun for Java students.
 - **Mario Zechner & Robert Green** — For the foundational framework from *Beginning Android Games*.
 - **Google** — For originally developing LiquidFun.
-
----
